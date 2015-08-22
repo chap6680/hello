@@ -21,12 +21,15 @@ p {font-weight: 200; font-size: 20px;}
 
 #link1 {
   color:blue;
+  text-decoration:none;
 }
 #link2 {
   color:red;
+  text-decoration:none;
 }
 #link3 {
   color:yellow;
+  text-decoration:none;
 }
 
 footer .inline-list li {padding-right: 40px;}
