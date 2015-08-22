@@ -19,15 +19,15 @@ p {font-weight: 200; font-size: 20px;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
 
-#link1 {
+#link1 a {
   color:blue;
   text-decoration:none;
 }
-#link2 {
+#link2 a {
   color:red;
   text-decoration:none;
 }
-#link3 {
+#link3 a {
   color:yellow;
   text-decoration:none;
 }
